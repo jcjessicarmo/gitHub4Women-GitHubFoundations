@@ -29,7 +29,7 @@ Ao longo de 5 semanas, as participantes tiveram acesso a 2 aulas semanais ao viv
 
 ## Evento Conexão Microsoft
 - 30/05/2024: Escritório da Microsoft em São Paulo.
-- 
+
 ![Mulheres sorrindo em volta do letreiro da Microsoft](imagem-evento-microsoft.png)
 
 ## Quizz - Teste seus conhecimentos e prepare-se para a certificação!
